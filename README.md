@@ -50,17 +50,15 @@ Load test
 
 ## Tabulation for Open Circuit Test:
 
-<img width="717" height="874" alt="image" src="https://github.com/user-attachments/assets/c367192f-522b-4b14-8933-aad6ed531987" />
+
 
 ## Tabulation for Load Test:
 
-<img width="803" height="872" alt="image" src="https://github.com/user-attachments/assets/79b057c4-e200-40a0-a712-198297d4e3c4" />
+
 
 ## Model graph:
 
-<img width="685" height="891" alt="image" src="https://github.com/user-attachments/assets/a147b0ce-e238-4192-8e61-795729966bf9" />
 
-<img width="849" height="876" alt="image" src="https://github.com/user-attachments/assets/5d2ec83e-6cac-4b50-a3bc-ad61761536d2" />
 
  
 
