@@ -50,16 +50,16 @@ Load test
 
 ## Tabulation for Open Circuit Test:
 
-
+![image alt](1.jpeg)
 
 ## Tabulation for Load Test:
 
-
+![image alt](2.jpeg)
 
 ## Model graph:
 
-
-
+![image alt](3.jpeg)
+![image alt](4.jpeg)
  
 
 ## Open circuit characteristics:
