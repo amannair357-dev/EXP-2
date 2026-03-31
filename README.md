@@ -14,11 +14,9 @@ Sl .no	Apparatus	Range	Type	Quantity
 
 3	Ammeter	(0-5)A	MC	1
 
-4	Rheostat		Wire wouned	1
+4	Rheostat		Wire wouned	2
 
-5	Rheostat		Wire wouned	1
-
-6	Connecting wires	-	-	As required
+5	Connecting wires	-	-	As required
 
 ### Fuse rating calculation for field and armature:
 
